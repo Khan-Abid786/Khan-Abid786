@@ -1,8 +1,8 @@
 
-  [![MasterHead](https://s5.ezgif.com/tmp/ezgif-5-cb2aa8388b.webp)](https://rishavchanda.io)
+  [![MasterHead](https://s2.ezgif.com/tmp/ezgif-2-63eb16effe.webp)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
-<h3 align="center">Interested in Machine Learning ,</h3>
+<h3 align="center">Interested in Machine Learning </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-abid786&label=Profile%20views&color=0e75b6&style=flat" alt="khan-abid786" /> </p>
 
