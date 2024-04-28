@@ -1,5 +1,5 @@
 
-  [![MasterHead](https://s1.ezgif.com/tmp/ezgif-1-980757bb46.webp)](https://rishavchanda.io)
+  [![MasterHead](https://s5.ezgif.com/tmp/ezgif-5-4c11d9e6e1.webp)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
 <h3 align="center">Interested in Machine Learning ,</h3>
