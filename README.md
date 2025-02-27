@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Diseases Classification**
 
-- 🌱 I’m currently learning **DSA & Algorithms , ML**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **khanabid90223@gmail.com**
 
