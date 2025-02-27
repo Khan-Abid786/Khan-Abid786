@@ -1,5 +1,5 @@
 
-  ![MasterHead](https://drive.google.com/uc?export=download&id=1Ah-Z3EaBLsck6gqneu23NoAQ_Gd7EQC7)
+  ![MasterHead](https://drive.google.com/uc?export=download&id=1F97YNv81DKCzIsDvRhHfJTFaK-kUd-eX)
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
 <h3 align="center">Interested in Machine Learning </h3>
