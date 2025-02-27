@@ -19,7 +19,7 @@
 <a href="https://twitter.com/khanabid9858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khanabid9858" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khan abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan abid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ak official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak official" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khanabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanabid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khanabidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanabid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
