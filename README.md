@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Diseases Classification**
 
-- 🌱 I’m currently learning **Natural Language Processing**
-
 - 📫 How to reach me **khanabid90223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
